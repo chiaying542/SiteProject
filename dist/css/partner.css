@@ -175,12 +175,12 @@ ul {
   font-size: 2rem;
   color: #283adf;
 }
-@media (max-width: 992px) {
+@media (max-width: 1170px) {
   .partner-items .item-group .list {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 780px) {
   .partner-items .item-group .list {
     grid-template-columns: 1fr;
     width: 300px;
