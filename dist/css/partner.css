@@ -29,6 +29,10 @@ ul {
   list-style-type: none;
 }
 
+:root {
+  --header-height: 80px;
+}
+
 .header {
   background-color: #fff;
   position: fixed;
